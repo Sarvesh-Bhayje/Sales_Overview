@@ -1,4 +1,5 @@
 Sales Dashboard📈
+
 This project is a dynamic sales dashboard created using Tableau, designed to provide a comprehensive overview of sales performance across the United States. 
 
 Key Features:
